@@ -6,7 +6,18 @@
       "title": "Innovative Eco-Friendly Packaging",
       "description": "Design packaging that is fully biodegradable and made from recycled materials.",
       "problemDescription": "Plastic waste is a major environmental issue.",
-      "ideaEffect": "Reduces environmental pollution and promotes sustainability."
+      "ideaEffect": "Reduces environmental pollution and promotes sustainability.",
+      "submissionDate": "2024-11-01T09:00:00.000Z",
+      "ideaStatus": "New",
+      "criterias": {
+        "Alignment": 0,
+        "innovation": 0,
+        "feasibility": 0,
+        "scalability": 0
+      },
+      "totalEvaluation": 0,
+      "comment": "",
+      "isRated": false
     },
     {
       "id": "2",
@@ -14,7 +25,18 @@
       "title": "Smart Water Usage App",
       "description": "An app that monitors water usage in homes and provides tips to conserve water.",
       "problemDescription": "Excessive water usage leads to scarcity in many regions.",
-      "ideaEffect": "Encourages responsible water usage and reduces utility bills."
+      "ideaEffect": "Encourages responsible water usage and reduces utility bills.",
+      "submissionDate": "2024-11-01T10:00:00.000Z",
+      "ideaStatus": "New",
+      "criterias": {
+        "Alignment": 0,
+        "innovation": 0,
+        "feasibility": 0,
+        "scalability": 0
+      },
+      "totalEvaluation": 0,
+      "comment": "",
+      "isRated": false
     },
     {
       "id": "3",
@@ -22,7 +44,18 @@
       "title": "Virtual Reality Travel Experience",
       "description": "A platform offering virtual reality tours of popular tourist destinations.",
       "problemDescription": "Travel can be expensive and not accessible to everyone.",
-      "ideaEffect": "Makes travel experiences available to more people without the cost."
+      "ideaEffect": "Makes travel experiences available to more people without the cost.",
+      "submissionDate": "2024-11-01T11:00:00.000Z",
+      "ideaStatus": "declined",
+      "criterias": {
+        "Alignment": 0,
+        "innovation": 3,
+        "feasibility": 3,
+        "scalability": 3
+      },
+      "totalEvaluation": 2.25,
+      "comment": "comment",
+      "isRated": true
     },
     {
       "id": "4",
@@ -30,7 +63,18 @@
       "title": "AI-Powered Personal Trainer",
       "description": "An AI app that creates personalized workout and nutrition plans based on user goals.",
       "problemDescription": "Many people struggle to maintain a fitness routine.",
-      "ideaEffect": "Improves health and fitness with tailored plans."
+      "ideaEffect": "Improves health and fitness with tailored plans.",
+      "submissionDate": "2024-11-01T12:00:00.000Z",
+      "ideaStatus": "selected",
+      "criterias": {
+        "Alignment": 0,
+        "innovation": 4,
+        "feasibility": 3,
+        "scalability": 3
+      },
+      "totalEvaluation": 2.5,
+      "comment": "",
+      "isRated": true
     },
     {
       "id": "5",
@@ -38,7 +82,18 @@
       "title": "Community Garden Initiative",
       "description": "Establish community gardens in urban areas to promote local food production.",
       "problemDescription": "Urban areas often lack access to fresh produce.",
-      "ideaEffect": "Promotes healthier eating habits and community engagement."
+      "ideaEffect": "Promotes healthier eating habits and community engagement.",
+      "submissionDate": "2024-11-01T13:00:00.000Z",
+      "ideaStatus": "declined",
+      "criterias": {
+        "Alignment": 0,
+        "innovation": 2,
+        "feasibility": 1,
+        "scalability": 1
+      },
+      "totalEvaluation": 1,
+      "comment": "comment",
+      "isRated": true
     },
     {
       "id": "6",
@@ -46,7 +101,18 @@
       "title": "Blockchain for Supply Chain Transparency",
       "description": "Use blockchain technology to track product origins and supply chains.",
       "problemDescription": "Lack of transparency in supply chains can lead to ethical issues.",
-      "ideaEffect": "Increases consumer trust and promotes ethical sourcing."
+      "ideaEffect": "Increases consumer trust and promotes ethical sourcing.",
+      "submissionDate": "2024-11-01T14:00:00.000Z",
+      "ideaStatus": "selected",
+      "criterias": {
+        "Alignment": 4,
+        "innovation": 5,
+        "feasibility": 4,
+        "scalability": 3
+      },
+      "totalEvaluation": 4,
+      "comment": "",
+      "isRated": true
     },
     {
       "id": "7",
@@ -54,7 +120,18 @@
       "title": "Telemedicine Platform",
       "description": "A platform that connects patients with doctors for virtual consultations.",
       "problemDescription": "Access to healthcare can be limited, especially in rural areas.",
-      "ideaEffect": "Increases access to healthcare services."
+      "ideaEffect": "Increases access to healthcare services.",
+      "submissionDate": "2024-11-01T15:00:00.000Z",
+      "ideaStatus": "selected",
+      "criterias": {
+        "Alignment": 3,
+        "innovation": 2,
+        "feasibility": 4,
+        "scalability": 4
+      },
+      "totalEvaluation": 2,
+      "comment": "",
+      "isRated": true
     },
     {
       "id": "8",
@@ -62,7 +139,18 @@
       "title": "Personal Finance Management App",
       "description": "An app that helps users manage their budgets and savings effectively.",
       "problemDescription": "Many people struggle with managing their finances.",
-      "ideaEffect": "Improves financial literacy and stability."
+      "ideaEffect": "Improves financial literacy and stability.",
+      "submissionDate": "2024-11-01T16:00:00.000Z",
+      "ideaStatus": "selected",
+      "criterias": {
+        "Alignment": 5,
+        "innovation": 4,
+        "feasibility": 3,
+        "scalability": 4
+      },
+      "totalEvaluation": 4,
+      "comment": "",
+      "isRated": true
     },
     {
       "id": "9",
@@ -70,7 +158,18 @@
       "title": "Online Learning Platform for Skills Development",
       "description": "A platform offering courses on various skills to enhance employability.",
       "problemDescription": "Many people need upskilling to meet job market demands.",
-      "ideaEffect": "Boosts employability and career growth."
+      "ideaEffect": "Boosts employability and career growth.",
+      "submissionDate": "2024-11-01T17:00:00.000Z",
+      "ideaStatus": "selected",
+      "criterias": {
+        "Alignment": 5,
+        "innovation": 1,
+        "feasibility": 4,
+        "scalability": 3
+      },
+      "totalEvaluation": 1.75,
+      "comment": "",
+      "isRated": true
     },
     {
       "id": "10",
@@ -78,9 +177,19 @@
       "title": "Local Art Showcase App",
       "description": "An app that connects local artists with potential buyers and galleries.",
       "problemDescription": "Local artists often struggle to gain exposure.",
-      "ideaEffect": "Promotes local art and supports artists in gaining recognition."
+      "ideaEffect": "Promotes local art and supports artists in gaining recognition.",
+      "submissionDate": "2024-11-01T18:00:00.000Z",
+      "ideaStatus": "declined",
+      "criterias": {
+        "Alignment": 2,
+        "innovation": 1,
+        "feasibility": 1,
+        "scalability": 2
+      },
+      "totalEvaluation": 1.5,
+      "comment": "",
+      "isRated": true
     }
-  
   ],
   "users": [
     {
@@ -127,22 +236,22 @@
     },
     {
       "id": "7",
-      "name": "leila",
-      "email": "leila@example.com",
+      "name": "khalid",
+      "email": "khalid@example.com",
       "phone": "678-901-2345",
       "password": "password901"
     },
     {
       "id": "8",
-      "name": "khalid",
-      "email": "khalid@example.com",
+      "name": "salma",
+      "email": "salma@example.com",
       "phone": "789-012-3456",
       "password": "password234"
     },
     {
       "id": "9",
-      "name": "salma",
-      "email": "salma@example.com",
+      "name": "leila",
+      "email": "leila@example.com",
       "phone": "890-123-4567",
       "password": "password567"
     },
